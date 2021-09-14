@@ -1,3 +1,14 @@
 h1{
     color: rgb(148, 243, 6);
+    background-color: indigo;
+}
+.list{
+    text-transform: uppercase;
+    color: lightcoral;
+    font-weight: bold;
+    font-size: larger;
+}
+.list2{
+    color: maroon;
+    width: 700px;
 }
