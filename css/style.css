@@ -50,8 +50,11 @@ ul,li{
 }
 .main-title{
     font-size: 50px;
-    color: rgb(223, 15, 15);
-    height: 1200px;
+    color: rgb(29, 233, 22);
+    height: 800px;
     margin-top: 300px;
     
+}
+.title{
+    color: green;
 }
